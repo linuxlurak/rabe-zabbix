@@ -61,9 +61,9 @@ following sub-templates:
 
 ## Usage
 1. Import the
-   [Template_SNMPv2_Generic.xml](../../snmp/Template_SNMPv2_Generic/Template_SNMPv2_Generic.xml)
+   [Template_SNMPv2_Generic.xml](../../snmp/SNMPv2_Generic/Template_SNMPv2_Generic.xml)
    and
-   [Template_SNMPv2_Interfaces_HC.xml](../../snmp/Template_SNMPv2_Interfaces_HC/Template_SNMPv2_Interfaces_HC.xml)
+   [Template_SNMPv2_Interfaces_HC.xml](../../snmp/SNMPv2_Interfaces_HC/Template_SNMPv2_Interfaces_HC.xml)
    sub-templates into your Zabbix server.
 2. Import the
    [Template_Stack_Netgear_GS108Tv2_SNMPv2.xml](Template_Stack_Netgear_GS108Tv2_SNMPv2.xml) into
@@ -77,11 +77,11 @@ following sub-templates:
    triggers on interfaces which aren't supposed to be up all the time
 
 ## Linked templates
-* [Template SNMPv2 Generic](../../snmp/Template_SNMPv2_Generic)
-* [Template SNMPv2 Interfaces HC](../../snmp/Template_SNMPv2_Interfaces_HC)
+* [Template SNMPv2 Generic](../../snmp/SNMPv2_Generic)
+* [Template SNMPv2 Interfaces HC](../../snmp/SNMPv2_Interfaces_HC)
 
 ## Related templates
-* [Template Stack Netgear M5300 Series SNMPv2](../Template_Stack_Netgear_M5300_Series_SNMPv2)
+* [Template Stack Netgear M5300 Series SNMPv2](/stack/Netgear_M5300_Series_SNMPv2)
 
 # Notes
 ## snmpwalk command
